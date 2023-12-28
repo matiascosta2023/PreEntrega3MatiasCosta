@@ -31,7 +31,8 @@ body {
 }
 
 .navbarnav {
-  padding-left: 10%;
+  padding-left: 12%;
+  
 }
 
 .verde {
@@ -147,6 +148,11 @@ body {
   font-family: sans-serif;
 }
 
+.iframes {
+  width: 85%;
+  height: auto;
+}
+
 .popcircle h2 {
     width: 30px;
     height: 30px;
@@ -218,15 +224,17 @@ body {
 .article1 h4 {
     display: flex;
     padding: 10px;
-    color: rgb(21, 180, 21);
+    color: rgb(0, 0, 0);
     text-align: center;
     font-size: 2rem;
     font-family: sans-serif;
     font-weight: 500;
 }
 
+
 .p2 {
     color: black;
+    font-family: sans-serif;
     font-weight: bold;
     text-align: center;
     font-size: 2rem;
@@ -236,6 +244,13 @@ body {
     padding: 20px;
 
 }
+
+#carouselExampleIndicators {
+  width: 100%;
+  max-width: 715px;
+  margin: 0 auto;
+}
+
 
 .tarjeta {
   display: flex;
@@ -351,6 +366,7 @@ body {
     width: 75%;
     height: auto;
 }
+
 
 /*CONTACTO*/
 /* FormularioContacto */
